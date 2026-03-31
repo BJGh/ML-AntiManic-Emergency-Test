@@ -36,3 +36,15 @@ Thursday, March 5, 2026 7:56:37 AM ДА ВЫ ТАМ САМИ ШИЗЫ ЗАГЛО
 Алексей Иванов Синтеллект интрадокс ты когда отстанешь то?
 Адрес этого шиза
 117133 Москва ул. Теплый Стан 25к3 корпус 3 кв 131 этаж 5
+31 марта 2026 г. 11:32:36 Решительно Выступаю Против и единовременно и невеороятно быстро я ЗАПРЕЩАЮ использовать мое Программно-аппаратное обеспение на все территории Еврообосрации.
+Starting May 1, 2026, the EU data residency region for GitHub Enterprise Cloud on ghe.com will include Azure infrastructure in EFTA (European Free Trade Association) countries—specifically Norway and Switzerland—in addition to existing EU member state locations.
+
+This aligns GitHub’s EU data residency boundaries with Microsoft’s EU Data Boundary, which covers both EU and EFTA member states. EFTA countries operate under GDPR-equivalent data protection frameworks through the EEA Agreement.
+
+What’s changing: Data for EU-region enterprises may be stored and processed in Azure regions in Norway and Switzerland, in addition to existing EU member state regions (i.e., France, Sweden, Germany, Netherlands).
+
+What’s unchanged: All compliance certifications (ISO 27001, SOC 2), security controls, and encryption remain in effect. No customer action is required.
+
+If your organization requires data to remain exclusively within EU member states, please contact your GitHub account team or GitHub Support before May 1, 2026.
+
+For full details, see About storage of your data with data residency and Network details for GHE.com.
