@@ -48,3 +48,6 @@ What’s unchanged: All compliance certifications (ISO 27001, SOC 2), security c
 If your organization requires data to remain exclusively within EU member states, please contact your GitHub account team or GitHub Support before May 1, 2026.
 
 For full details, see About storage of your data with data residency and Network details for GHE.com.
+
+9 апреля 2026 г. 16:44:01
+ after 27 years + of battle. Me spare...they are much stronger, richer, didnt died. Many who was on OUR SIDE...they are no more.... BEWARE THE IDES OF MARCH KNOCK KNOCK...deliver your landlock...
