@@ -52,3 +52,25 @@ For full details, see About storage of your data with data residency and Network
 9 апреля 2026 г. 16:44:01
  after 27 years + of battle. Me spare...they are much stronger, richer, didnt died. Many who was on OUR SIDE...they are no more.... BEWARE THE IDES OF MARCH KNOCK KNOCK...deliver your landlock...
  Epstein could be...alive at least now when me дышь дышь дышь... ОН УЖЕ ИДЕ Т TIDE ИДЕТ К ВАМ
+ apr 25 2026 4:26 pm 
+ <img width="375" height="812" alt="image" src="https://github.com/user-attachments/assets/55853d04-63e2-4fbd-999f-c75aa40533bd" />
+ <img width="375" height="812" alt="image" src="https://github.com/user-attachments/assets/6c0dd860-e5b8-44df-b15f-83bd24e7adfa" />
+ 
+<img width="375" height="812" alt="image" src="https://github.com/user-attachments/assets/baa1b228-aa4d-4652-8e0f-9040051d689d" />
+
+<img width="375" height="812" alt="image" src="https://github.com/user-attachments/assets/44a703ac-21a9-40e4-afda-64589a34c525" />
+
+<img width="375" height="812" alt="image" src="https://github.com/user-attachments/assets/fa7f2454-9ebc-4afd-bbda-ef06aeb526f2" />
+
+<img width="375" height="812" alt="image" src="https://github.com/user-attachments/assets/b0407011-a560-4136-9fc4-ea3c4a61464a" />
+
+<img width="375" height="812" alt="image" src="https://github.com/user-attachments/assets/33e1e59e-05db-4ee5-8caa-05dcf5986cbe" />
+
+<img width="375" height="812" alt="image" src="https://github.com/user-attachments/assets/020825db-957f-4dc9-9bb8-2d41c6dc120a" />
+
+<img width="375" height="812" alt="image" src="https://github.com/user-attachments/assets/244fb74a-bcd1-4033-8b39-71205de56906" />
+
+<img width="375" height="812" alt="image" src="https://github.com/user-attachments/assets/e4aa9dad-413b-4e62-bf50-8e4d169dfa3e" />
+is that all pain to living under bombs...
+payday...
+
