@@ -35,7 +35,7 @@ This is not a "chatbot." This is a **Hyper-Evolutionary Cyber-Control (ГЭКК)
 Thursday, March 5, 2026 7:56:37 AM ДА ВЫ ТАМ САМИ ШИЗЫ ЗАГЛОХНИТЕ СВОЮ ЛЖИВЦУЮ ПАСТЬ ОТСЮДА И ИДИТЕ КУДА ХОТИТЕ! Закрываю Репо из ПАБЛИКА
 Алексей Иванов Синтеллект интрадокс ты когда отстанешь то?
 Адрес этого шиза
-117133 Москва ул. Теплый Стан 25к3 корпус 3 кв 131 этаж 5
+117133 Москва ул. Теплый Стан
 31 марта 2026 г. 11:32:36 Решительно Выступаю Против и единовременно и невеороятно быстро я ЗАПРЕЩАЮ использовать мое Программно-аппаратное обеспение на все территории Еврообосрации.
 Starting May 1, 2026, the EU data residency region for GitHub Enterprise Cloud on ghe.com will include Azure infrastructure in EFTA (European Free Trade Association) countries—specifically Norway and Switzerland—in addition to existing EU member state locations.
 
