@@ -8,7 +8,7 @@ Direct licensing and wire details for U.S. institutional and individual stakehol
 
 * **Intermediary Bank:** The Bank of New York Mellon
 * **ABA / Routing No:** `021000018`
-* **SWIFT Code:** `RVTUS3N`
+* **SWIFT Code:** IRVTUS3N
 * **CHIPS Routing:** `0001`
 * **Correspondent Account:** `8901303402`
 * **Beneficiary Account:** `40817840255000000298`
