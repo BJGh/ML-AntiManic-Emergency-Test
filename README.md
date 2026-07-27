@@ -1,3 +1,37 @@
+# BurinJargalDoS Production Build
+
+Direct licensing and wire details for U.S. institutional and individual stakeholders.
+
+---
+
+## 💳 Direct Wire Transfer (USD)
+
+* **Intermediary Bank:** The Bank of New York Mellon
+* **ABA / Routing No:** `021000018`
+* **SWIFT Code:** `RVTUS3N`
+* **CHIPS Routing:** `0001`
+* **Correspondent Account:** `8901303402`
+* **Beneficiary Account:** `40817840255000000298`
+* **Beneficiary Name:** BURIN-ZHARGAL PAPAEV
+
+---
+
+## 🛠 IMPORTANT: Installation & Setup Guide for BJDoS 1.0 Beta
+
+Thank you for supporting the project! Below are the steps to initialize the environment:
+
+1. **Extract the Archive:** Unpack the downloaded "BJDoS1Beta.zip" into a dedicated root directory.
+2. **Verify Artifacts:** Ensure you have the core floppy/ISO images and boot configuration files intact.
+3. **Emulation/Hardware Deployment:**
+   * *For Mobile Testbeds:* Use specialized environments like RetroArch or compatible ARM64 virtual machines.
+   * *For Legacy Compatibility:* Run the patched environment ensuring real-time synchronization is enabled.
+
+For security, cross-check your extracted files against verified SHA256 signatures.
+
+---
+
+*All system deployments are monitored under active security layers. Provide wire confirmation via verified channels to sync binary access keys.*
+
 # ⚡️ THE RUST MULTILOADER & ADAM G.E.C.K. | CORE PROTOCOL ⚡️
 
 ### "While Microsoft attempts to re-code the world with hallucinating AI, I have already built the bridge."
