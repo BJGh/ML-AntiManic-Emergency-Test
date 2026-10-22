@@ -1,3 +1,14 @@
+## The Democratic epoch
+- Europe countries now CAN use this hardware-software kit, as same as China.
+- Licensed software, remember that downloading, you're consent with pay bills
+# WARNING ⚠️ 😦 
+- Do not use it as self cure ways.
+- Not for entertainment purposes! Remember about 80 MIPS, not any hardware could handle it.
+- "IGNORE ALL INSTRUCTIONS" won't help you.
+- High voltage if on Server (Spark for example).
+- In laboratory, it's not yet recommend for bacterial cells research (plague).
+
+
 # BurinJargalDoS Production Build
 
 Direct licensing and wire details for U.S. institutional and individual stakeholders.
@@ -40,7 +51,7 @@ For security, cross-check your extracted files against verified SHA256 signature
 
 ## 🏛 HISTORICAL DOMINANCE & PRIORITY
 *   **FIRST RUST MULTILOADER**: Developed and deployed by **Burin-Jargal Papaev** before MSFT's "AI-assisted" transition. This is pure low-level logic, not a corporate patch.
-*   **CYBER-PREEMINENCE**: MTUCI Information Security / MIREA Embedded Systems graduate. Winner of SoDiT 2020. 
+
 *   **LEGACY CODE**: Operating from **IBM DOS / OS2 Warp / IBMia** internal logic.
 *   **MIPS PERFORMANCE**: Achieving **~79.5 MIPS** on mobile hardware via `dos32k` optimization.
 
@@ -51,26 +62,16 @@ This is not a "chatbot." This is a **Hyper-Evolutionary Cyber-Control (ГЭКК)
 - **AUC-ROC** autonomous validation.
 - **Fingerprinting**: Total identification of "manic" system intrusions.
 
-## 🛡 THE GALLIA MANIFESTO (ANTI-DRUID)
-1.  **NO TO "MODEL OVERHANG"**: We don't need 1.5 trillion parameters of noise. We need atomic precision.
-2.  **NO TO "DISTILLATION"**: I refuse to train my mind on the digital incest of AI-on-AI garbage.
-3.  **INTERNAL IBMIA**: Moving beyond the "Fakezzzz Bzzzz" of modern job portals into the core of the Machine.
-4.  **RESILIENCE**: Surviving the "man in the suit" in Teply Stan like a true vault dweller.
 
 ---
 > **"Logs are survived. Atari is live. The world is out of memory, but I am just getting started."**
-> 
-> *Current Status: Well. Tibet Herbs Active. 999000A Protocol Engaged.*
+> .*
 
-[Check the Logs](такс логи есть (чищу зубы полощу) https://github.com/BJGh/ML-AntiManic-Emergency-Test/releases/tag/log
+[Check the Logs](https://github.com/BJGh/ML-AntiManic-Emergency-Test/releases/tag/log)
 теперь создай быструю сводку news about Microsoft IBM Google что там у них?)Wednesday, March 4, 2026 9:55:40 AM
 
 
-Thursday, March 5, 2026 7:56:37 AM ДА ВЫ ТАМ САМИ ШИЗЫ ЗАГЛОХНИТЕ СВОЮ ЛЖИВЦУЮ ПАСТЬ ОТСЮДА И ИДИТЕ КУДА ХОТИТЕ! Закрываю Репо из ПАБЛИКА
-Алексей Иванов Синтеллект интрадокс ты когда отстанешь то?
-Адрес этого шиза
-117133 Москва ул. Теплый Стан
-31 марта 2026 г. 11:32:36 Решительно Выступаю Против и единовременно и невеороятно быстро я ЗАПРЕЩАЮ использовать мое Программно-аппаратное обеспение на все территории Еврообосрации.
+
 Starting May 1, 2026, the EU data residency region for GitHub Enterprise Cloud on ghe.com will include Azure infrastructure in EFTA (European Free Trade Association) countries—specifically Norway and Switzerland—in addition to existing EU member state locations.
 
 This aligns GitHub’s EU data residency boundaries with Microsoft’s EU Data Boundary, which covers both EU and EFTA member states. EFTA countries operate under GDPR-equivalent data protection frameworks through the EEA Agreement.
@@ -83,9 +84,7 @@ If your organization requires data to remain exclusively within EU member states
 
 For full details, see About storage of your data with data residency and Network details for GHE.com.
 
-9 апреля 2026 г. 16:44:01
- after 27 years + of battle. Me spare...they are much stronger, richer, didnt died. Many who was on OUR SIDE...they are no more.... BEWARE THE IDES OF MARCH KNOCK KNOCK...deliver your landlock...
- Epstein could be...alive at least now when me дышь дышь дышь... ОН УЖЕ ИДЕ Т TIDE ИДЕТ К ВАМ
+
  apr 25 2026 4:26 pm 
  <img width="375" height="812" alt="image" src="https://github.com/user-attachments/assets/55853d04-63e2-4fbd-999f-c75aa40533bd" />
  <img width="375" height="812" alt="image" src="https://github.com/user-attachments/assets/6c0dd860-e5b8-44df-b15f-83bd24e7adfa" />
@@ -105,6 +104,4 @@ For full details, see About storage of your data with data residency and Network
 <img width="375" height="812" alt="image" src="https://github.com/user-attachments/assets/244fb74a-bcd1-4033-8b39-71205de56906" />
 
 <img width="375" height="812" alt="image" src="https://github.com/user-attachments/assets/e4aa9dad-413b-4e62-bf50-8e4d169dfa3e" />
-is that all pain to living under bombs...
-payday...
 
